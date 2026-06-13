@@ -90,7 +90,7 @@ When I'm not training models or debugging a state_dict mismatch at midnight, I'm
 
 ---
 
-<div align="center">
+
 
 **Currently learning:** Deep learning, audio ML, and reinforcement learning
 **Always open to:** Collaboration on interesting ML/AI projects
