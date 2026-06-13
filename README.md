@@ -1,128 +1,100 @@
-# Shikha
+<div align="center">
 
-Data Science Student | Python, SQL, Machine Learning | Building real-world, impact-driven projects
+# Hey, I'm Shikha
+
+### Data Scientist in training. I build things, break things, then build them better.
+
+[![GitHub](https://img.shields.io/badge/GitHub-shikha382-181717?style=for-the-badge&logo=github)](https://github.com/shikha382)
+[![Location](https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-## About Me
+## What I'm About
 
-- Data Science student with a strong interest in analytics, machine learning, and deep learning
-- Comfortable working with Python, SQL, Flask, and REST APIs
-- Solid foundation in Statistics and Mathematics for Data Science
-- Hands-on experience with deep learning frameworks (PyTorch, Hugging Face Transformers)
-- Enjoy transforming raw data into meaningful insights and building end-to-end ML pipelines
-- Believe in learning by building and iterating step by step
+I'm a Data Science student who learns best by *building* — not just reading theory and nodding along. If I read about a transformer model, my next move is fine-tuning one. If I read about genetic algorithms, I'm writing a simulation where digital creatures evolve to survive.
+
+Currently exploring the intersection of **deep learning, automation, and applied ML** — and slowly turning that curiosity into a portfolio of real, working projects.
 
 ---
 
 ## Tech Stack
 
-### Programming Languages & Frameworks
-- Python (data handling, automation, machine learning, deep learning)
-- Java
-- Flask, REST APIs
-- SQL (PostgreSQL, MySQL)
-- HTML, CSS, JavaScript (basic)
-- Jinja2 templating
+<div align="center">
 
-### Machine Learning & Deep Learning
-- Scikit-learn, XGBoost, LightGBM
-- PyTorch
-- Hugging Face Transformers (Audio Spectrogram Transformer, fine-tuning, model deployment)
-- Feature engineering, ensemble modeling (stacking), iterative imputation
-- Neuroevolution and genetic algorithms (NumPy-based neural networks)
-- Gradio (interactive ML applications)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Tools & Platforms
-- Git & GitHub
-- Hugging Face Hub & Spaces
-- VS Code
-- MS Office (Word, Excel, PowerPoint)
-- Google Workspace
-- Canva, WordPress, WooCommerce
+</div>
 
----
-
-## Academic Coursework
-- Machine Learning
-- Deep Learning
-- Statistics for Data Science
-- Mathematics for Data Science
-- Database Management Systems
-- Business Data Management
-- Tools in Data Science
+**Also in the toolkit:** XGBoost, LightGBM, Gradio, Hugging Face Spaces, Pygame, REST APIs, Jinja2, JavaScript (basic)
 
 ---
 
 ## Featured Projects
 
-### Music Genre Classification (Audio Spectrogram Transformer)
-- Fine-tuned a pre-trained Audio Spectrogram Transformer (AST) for music genre classification
-- Built an interactive Gradio interface deployed on Hugging Face Spaces
-- Implemented audio preprocessing pipeline including normalization and cropping
+### Music Genre Classifier — Audio Spectrogram Transformer
+Fine-tuned a pretrained AST model to classify music by genre from raw audio, wrapped in an interactive Gradio app and deployed live on Hugging Face Spaces.
 
-**Tech Used:** Python, PyTorch, Transformers, Librosa, Gradio, Hugging Face Spaces
+`Python` · `PyTorch` · `Transformers` · `Librosa` · `Gradio`
 
 ---
 
-### Estate Price Prediction (ML Competition Pipeline)
-- Built a complete machine learning pipeline for a price prediction challenge
-- Implemented a stacking ensemble (XGBoost, LightGBM, and Ridge meta-learner)
-- Performed feature engineering and iterative imputation for missing data
-- Iterated through multiple rounds of debugging and performance tuning
+### Estate Price Prediction — Stacking Ensemble
+A full ML competition pipeline: feature engineering, iterative imputation, and a stacked ensemble (XGBoost + LightGBM + Ridge meta-learner) tuned through multiple rounds of debugging and optimization.
 
-**Tech Used:** Python, Pandas, Scikit-learn, XGBoost, LightGBM
+`Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `LightGBM`
 
 ---
 
-### Creature Evolution Lab (Neuroevolution Simulation)
-- Built a 2D simulation where agents with neural network brains evolve over generations
-- Implemented a custom neural network (Brain class) using NumPy
-- Designed a raycasting-based sensory system for environment perception
-- Applied genetic algorithms for evolving agent behavior without backpropagation
+### Creature Evolution Lab — Neuroevolution Simulation
+A 2D world where creatures with NumPy-based neural network "brains" evolve over generations using genetic algorithms — no backpropagation, just survival of the fittest. Includes a raycasting-based sensory system so creatures can "see" food and walls.
 
-**Tech Used:** Python, NumPy, Pygame, Genetic Algorithms
+`Python` · `NumPy` · `Pygame` · `Genetic Algorithms`
 
 ---
 
 ### Hospital Management System
-- Role-based authentication (Admin / Doctor / Patient)
-- Appointment booking and scheduling system
-- RESTful APIs using Flask
-- Structured relational database design
+A role-based web app (Admin / Doctor / Patient) with appointment scheduling, RESTful APIs, and a structured relational database.
 
-**Tech Used:** Python, Flask, SQLAlchemy, SQLite
+`Python` · `Flask` · `SQLAlchemy` · `SQLite`
 
 ---
 
 ### Automated Data Cleaning & Analysis Pipeline
-- End-to-end data preprocessing workflow
-- Handling missing values, duplicates, and outliers
-- Exploratory Data Analysis (EDA)
+An end-to-end preprocessing workflow — handling missing values, duplicates, and outliers — followed by exploratory data analysis.
 
-**Tech Used:** Python, Pandas, NumPy, SQL
+`Python` · `Pandas` · `NumPy` · `SQL`
 
 ---
 
 ### AI Fact Checker
-- Focused on fact verification and misinformation detection
-- Designed to validate and analyze content logically
+A tool focused on fact verification and misinformation detection, designed to logically validate content.
 
-**Tech Used:** TypeScript, APIs
-
----
-
-## Beyond Code
-- Interested in animation and creative storytelling
-- Enjoy working with design tools like Canva
-- Prefer a calm, curiosity-driven learning environment
+`TypeScript` · `APIs`
 
 ---
 
-## Connect
-- Location: India
-- GitHub: https://github.com/shikha382
+## Beyond the Code
+
+When I'm not training models or debugging a state_dict mismatch at midnight, I'm usually sketching out ideas in Canva, rewatching Doraemon or Shinchan for the hundredth time, or just sitting with a cup of coffee thinking about the next thing to build.
 
 ---
 
-*Learning, building, and improving — one project at a time.*
+<div align="center">
+
+**Currently learning:** Deep learning, audio ML, and reinforcement learning
+**Always open to:** Collaboration on interesting ML/AI projects
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikha382&show_icons=true&theme=default&hide_title=true)](https://github.com/shikha382)
+
+</div>
