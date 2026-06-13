@@ -95,6 +95,3 @@ When I'm not training models or debugging a state_dict mismatch at midnight, I'm
 **Currently learning:** Deep learning, audio ML, and reinforcement learning
 **Always open to:** Collaboration on interesting ML/AI projects
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikha382&show_icons=true&theme=default&hide_title=true)](https://github.com/shikha382)
-
-</div>
